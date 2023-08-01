@@ -123,7 +123,8 @@ This guide will walk you through the process of setting up a development environ
    - ./get_helm.sh
    Verify the Helm installation by running *helm version*.
 
-   > For installing Istio, refer to: [Istio Getting Started Guide](https://istio.io/latest/docs/setup/getting-started/)
+7. **For installing Istio**
+   - refer to: [Istio Getting Started Guide](https://istio.io/latest/docs/setup/getting-started/)
    
 
 That's it! You now have a Kubernetes development environment with WSL, Ubuntu, Docker, Minikube, and Helm set up on your Windows machine. You can use this environment to develop and manage applications using containers and Kubernetes.
@@ -140,12 +141,13 @@ For the most up-to-date and accurate information, always refer to the official d
 - [Minikube Official Documentation](https://minikube.sigs.k8s.io/docs/)
 - [Kubernetes Official Documentation](https://kubernetes.io/docs/home/)
 - [Helm Official Documentation](https://helm.sh/docs/)
+- [Istio Getting Started Guide](https://istio.io/latest/docs/setup/getting-started/)
 
 Before proceeding with the installation or troubleshooting, check the official documentation to ensure you have the latest information and avoid any potential errors.
 
 If you encounter any issues or have questions regarding the setup, feel free to reach out to the respective communities or support channels for assistance.
 
-You can reach me at nusairtech@gmail.com.
+You can reach me at akshaykmanoj45@gmail.com.
 
 Happy Kubernetes development!
 
